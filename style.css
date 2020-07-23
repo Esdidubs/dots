@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	margin-top: 5px;
+}
+
+canvas {
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	margin-bottom: 5px;
+}
+
+p {
+	margin: 5px auto;
+}
+
+.colorBox {
+	height: 10px;
+	width: 10px;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+#red {
+	background-color: red;
+}
+
+#blue {
+	background-color: blue;
+}
+
+#green {
+	background-color: green;
+}
+
+#gold {
+	background-color: gold;
+}
+
+#pink {
+	background-color: palevioletred;
+}
